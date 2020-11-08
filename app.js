@@ -97,7 +97,7 @@ function nextProfile(){
   <li class="list-group-item">Name: ${currentProfile.name}</li>
   <li class="list-group-item">Age: ${currentProfile.age}</li>
   <li class="list-group-item">Location: ${currentProfile.location}</li>
-  <li class="list-group-item">Preference: ${currentProfile.gender}</li>
+  <li class="list-group-item">Gender: ${currentProfile.gender}</li>
   <li class="list-group-item">Post: ${currentProfile.post}</li>
   </ul>`
 
